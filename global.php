@@ -1,4 +1,5 @@
 <?php 
+
 session_start();
 /*
  * Định nghĩa các url cần thiết được sử dụng trong website
@@ -87,3 +88,8 @@ function check_login1(){
         header('location:../../index.php');
     }
 }
+public function test($value)
+{
+    asdasd
+}
+?>
