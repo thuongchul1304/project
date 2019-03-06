@@ -1,0 +1,32 @@
+<style type="text/css" media="screen">
+@media all and (min-width: 1680px) {
+
+}
+@media only screen and (min-width: 768px) and (max-width: 989px) {
+	.sales, header .devices {
+		display:none !important
+	}
+	#preview-img {
+		padding:5px;
+		width:310px;
+		height:155px
+	}
+}
+@media only screen and (max-width: 767px) {
+	.sales, #preview-img, .rating, span.text, .cat, .sales, header .devices {
+		display:none !important
+	}
+	header .logo>a {  
+		padding:0px;
+		padding-left:0px
+	}
+	header #menu, header #menu ul {
+		min-width:160px;
+		width:160px
+	}
+	.close, .cog {
+		padding:10px 0px !important
+	}
+}
+
+</style>

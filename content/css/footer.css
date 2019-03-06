@@ -1,0 +1,27 @@
+
+<style>
+footer a, footer {color:#fff;background-color:#c10037;}
+footer a:hover {color:silver;}
+
+.footer-buttons a {text-align:left; border:0; position:relative; overflow:hidden;}
+
+.footer-buttons a.btn i {transition:all .5s linear; padding-right:5px; opacity:.5;}
+.footer-buttons a.btn:hover i {transform:rotate(360deg) scale(1.5);opacity:1;}
+
+.footer-buttons strong {color:#c10037; }
+
+footer hr {border-color:silver;}
+
+
+
+/*
+.footer-buttons a:before {
+      transition:all .5s linear;
+      position:absolute; 
+  content:''; background-color:#ccc; border-left:3px solid #c10037; width:10px; height:150%; right:0; top:-25%;}
+    
+    
+.footer-buttons a:hover:before { width:15px;  } 
+*/    
+
+</style>

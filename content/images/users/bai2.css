@@ -1,0 +1,31 @@
+body
+{
+
+font-family: Arial,sans-serif;
+margin:0px;
+padding:0px;
+font-size:87.5%;
+}
+main
+{
+	margin:20px 0 0 33%;
+	border: 1px solid black;
+	width: 500px;
+	height: 200px;
+	background:lightgreen;
+	text-align: center;
+	
+}
+header
+{	
+	color: red;
+	padding-bottom: .75em;
+	border-bottom: 3px solid black;
+	margin-bottom: 0px;
+}
+h1
+{	font-family: "Times New roman",serif;
+	padding: 10px;
+	font-size:200%;
+	margin-bottom: 0px;
+}
